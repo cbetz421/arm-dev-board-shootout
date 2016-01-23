@@ -2,7 +2,7 @@
 
 ## Goals
 
-* Demonstrate capabilities of embedded platforms in a reproducible manner: 
+* Demonstrate capabilities of embedded platforms in a reproducible manner
   * CPU Performance 
   * Memory Bandwidth
   * GPU
@@ -15,20 +15,23 @@
 
 ## Vendors, SoC Families, and Boards Covered
 
-* TI 
+* TI
   * OMAP
     * Beagleboard rev C3 (OMAP3530, PowerVR SGX 530)
     * Beagleboard XM rev B (DM3730, PowerVR SGX 530)
   * AM335x
     * Beaglebone Rev C (AM3358)
+
 * Samsung
   * Exynos
     * Samsung Origen Development Board (Exynos 4412)
     * O-droid U2 (Exynos 4412)
+
 * NXP (Formerly Freescale)
     * i.MX6
       * Cubox i4 Pro (i.MX6)
       * Zealz GK 802 (i.MX6 Quad)
+
 * Broadcom
   * BCM28XX
     * Raspberry Pi (BCM2835)
